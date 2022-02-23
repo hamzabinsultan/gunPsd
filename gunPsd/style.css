@@ -1,0 +1,61 @@
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+body,
+html {
+    margin: 0;
+    height: 100%;
+}
+
+.Home {
+    background-image: url("frontImg.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nav li a {
+    color: white;
+}
+
+.nav-brand {
+    font-size: small;
+}
+
+.welcomeText {
+    color: white;
+    margin-left: -14rem;
+}
+
+.welcomeText h2,
+p,
+button {
+    margin-left: 6rem;
+}
+
+.navRow {
+    padding: 2rem 0 0 24rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    width: 9rem;
+}
+
+.navLinks {
+    margin-left: -17rem;
+}
+
+
+/* .img1 {
+    background-image: url("1.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
